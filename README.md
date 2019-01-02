@@ -1,4 +1,4 @@
-Snakes-and-Ladders
+Snakes-and-Ladders WoW Check
 ==================
 
 A simple snake and ladder logic game build with angular js.
